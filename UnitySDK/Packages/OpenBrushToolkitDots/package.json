@@ -1,11 +1,12 @@
 {
-    "name": "com.icosafoundation.openbrushtoolkitdots",
-    "version": "1.0.0",
-    "displayName": "Open Brush Toolkit DOTS",
-    "description": "This package contains Open Brush Toolkit features using Unity DOTS.",
-    "unity": "2019.4",
-    "unityRelease": "25f1",
-    "dependencies": {
-      "com.unity.burst": "1.4.11"
-    }
+  "name": "com.icosafoundation.openbrushtoolkitdots",
+  "version": "1.0.0",
+  "displayName": "Open Brush Toolkit DOTS",
+  "description": "This package contains Open Brush Toolkit features using Unity DOTS.\n\nFeatures:\n\n- Editor tool \"Tilt Brush/Labs/Split Mesh By Stroke\". You can use this tool to separate a mesh that contains multiple strokes into individual strokes. How to use: select one or more gameobjects that have stroke meshes, and activate the tool at Tilt Brush/Labs/Split Mesh By Stroke",
+  "unity": "2019.4",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://docs.openbrush.app/user-guide/open-brush-unity-sdk/",
+  "dependencies": {
+    "com.unity.burst": "1.4.11"
   }
+}
