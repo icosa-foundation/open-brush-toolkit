@@ -1,11 +1,13 @@
 {
-    "name": "TiltBrushToolkitRuntime",
+    "name": "icosafoundation.openbrushtoolkitdots.editor",
     "references": [
-        "TiltBrushToolkitThirdParty"
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "TiltBrushToolkitEditor"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": true,
+    "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
