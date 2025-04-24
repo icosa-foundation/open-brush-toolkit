@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 6a1cf9f9-032c-45ec-9b6e-a6680bee32e9
   m_DurableName: HyperGrid
-  m_Material: {fileID: 2100000, guid: 6a1cf9f9032c45ec9b6ea6680bee32e9, type: 2}
+  m_Material: {fileID: 2100000, guid: e8d3b76da0405464087001136c77b008, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

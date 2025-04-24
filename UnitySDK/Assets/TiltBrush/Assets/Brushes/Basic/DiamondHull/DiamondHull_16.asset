@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: c8313697-2563-47fc-832e-290f4c04b901
   m_DurableName: DiamondHull
-  m_Material: {fileID: 2100000, guid: c8313697256347fc832e290f4c04b901, type: 2}
+  m_Material: {fileID: 2100000, guid: d2e6bb39f4d2ac6499b22771a7e046eb, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 0

@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: b67c0e81-ce6d-40a8-aeb0-ef036b081aa3
   m_DurableName: WetPaint
-  m_Material: {fileID: 2100000, guid: b67c0e81ce6d40a8aeb0ef036b081aa3, type: 2}
+  m_Material: {fileID: 2100000, guid: 2f6df575ca49b43468d179f665f4e16a, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

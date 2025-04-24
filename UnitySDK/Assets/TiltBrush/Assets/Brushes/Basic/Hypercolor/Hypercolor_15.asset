@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: dce872c2-7b49-4684-b59b-c45387949c5c
   m_DurableName: Hypercolor
-  m_Material: {fileID: 2100000, guid: dce872c27b494684b59bc45387949c5c, type: 2}
+  m_Material: {fileID: 2100000, guid: 077bed1c8bd0753499e0c3adb693a3bc, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

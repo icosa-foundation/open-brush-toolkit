@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 89d104cd-d012-426b-b5b3-bbaee63ac43c
   m_DurableName: Bubbles
-  m_Material: {fileID: 2100000, guid: 89d104cdd012426bb5b3bbaee63ac43c, type: 2}
+  m_Material: {fileID: 2100000, guid: 4d24cf1c5fc5d174294759d0473ffda4, type: 2}
   m_IsParticle: 1
   m_uv0Size: 4
   m_uv0Semantic: 5

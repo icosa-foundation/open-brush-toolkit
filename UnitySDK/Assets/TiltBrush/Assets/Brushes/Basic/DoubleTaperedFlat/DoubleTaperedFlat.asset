@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 0d3889f3-3ede-470c-8af4-f44813306126
   m_DurableName: DoubleTaperedFlat
-  m_Material: {fileID: 2100000, guid: 0d3889f33ede470c8af4f44813306126, type: 2}
+  m_Material: {fileID: 2100000, guid: 46a727689bd591e46b9b4c60c6d6207c, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: d229d335-c334-495a-a801-660ac8a87360
   m_DurableName: VelvetInk
-  m_Material: {fileID: 2100000, guid: d229d335c334495aa801660ac8a87360, type: 2}
+  m_Material: {fileID: 2100000, guid: 5099a2d1be1fb094d95a6e208ae54f2e, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

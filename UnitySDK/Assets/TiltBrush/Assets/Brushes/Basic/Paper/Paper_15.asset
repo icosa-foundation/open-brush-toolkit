@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: f1114e2e-eb8d-4fde-915a-6e653b54e9f5
   m_DurableName: Paper
-  m_Material: {fileID: 2100000, guid: f1114e2eeb8d4fde915a6e653b54e9f5, type: 2}
+  m_Material: {fileID: 2100000, guid: faf7f09d9e15d1c419af33d8dab6513a, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

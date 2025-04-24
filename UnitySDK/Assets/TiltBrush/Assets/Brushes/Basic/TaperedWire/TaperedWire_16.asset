@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 9568870f-8594-60f4-1b20-dfbc8a5eac0e
   m_DurableName: TaperedWire
-  m_Material: {fileID: 2100000, guid: 9568870f859460f41b20dfbc8a5eac0e, type: 2}
+  m_Material: {fileID: 2100000, guid: 02c7014159304aa4e8df18910f3ce75f, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

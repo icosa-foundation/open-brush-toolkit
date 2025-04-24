@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 1caa6d7d-f015-3f54-3a4b-8b5354d39f81
   m_DurableName: Comet
-  m_Material: {fileID: 2100000, guid: 1caa6d7df0153f543a4b8b5354d39f81, type: 2}
+  m_Material: {fileID: 2100000, guid: 3706091e56063b947aabd55a0367680d, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

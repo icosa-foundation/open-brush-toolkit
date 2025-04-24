@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: a8fea537-da7c-4d4b-817f-24f074725d6d
   m_DurableName: UnlitHull
-  m_Material: {fileID: 2100000, guid: a8fea537da7c4d4b817f24f074725d6d, type: 2}
+  m_Material: {fileID: 2100000, guid: 5ae6d84f05f1b294db68b2919d5e1fb4, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 0
