@@ -37,4 +37,4 @@ Python 2.7 code and scripts for advanced Open Brush data manipulation.
      * `unpack.py` - Convert .tilt files from packed format to unpacked format and vice versa.
 ### Render pipeline support
 * This repo currently has built in render pipleline support.
-* [This fork has URP support.](https://github.com/kijai/tilt-brush-toolkit)
+* [This branch has URP support for most brushes](https://github.com/icosa-foundation/open-brush-toolkit/tree/feature/shader-graph)
