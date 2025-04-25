@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 2c1a6a63-6552-4d23-86d7-58f6fba8581b
   m_DurableName: Wireframe
-  m_Material: {fileID: 2100000, guid: 2c1a6a6365524d2386d758f6fba8581b, type: 2}
+  m_Material: {fileID: 2100000, guid: 070d486b00ad2134f87f9cae0e1ac26f, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

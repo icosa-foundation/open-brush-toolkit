@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 62fef968-e842-3224-4a0e-1fdb7cfb745c
   m_DurableName: Wire (Lit)
-  m_Material: {fileID: 2100000, guid: 62fef968e84232244a0e1fdb7cfb745c, type: 2}
+  m_Material: {fileID: 2100000, guid: 3024faf9e8c49f5499bd25dc761711cd, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

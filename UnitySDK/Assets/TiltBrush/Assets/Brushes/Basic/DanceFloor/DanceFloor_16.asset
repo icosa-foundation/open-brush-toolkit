@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 6a1cf9f9-032c-45ec-311e-a6680bee32e9
   m_DurableName: DanceFloor
-  m_Material: {fileID: 2100000, guid: 6a1cf9f9032c45ec311ea6680bee32e9, type: 2}
+  m_Material: {fileID: 2100000, guid: ed7399bea87d4044999583c656cf2ead, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

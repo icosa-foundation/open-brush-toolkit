@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: d120944d-772f-4062-99c6-46a6f219eeaf
   m_DurableName: WaveformFFT
-  m_Material: {fileID: 2100000, guid: d120944d772f406299c646a6f219eeaf, type: 2}
+  m_Material: {fileID: 2100000, guid: 5fb3ec9bb72f93c4884e385f2fcbb224, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

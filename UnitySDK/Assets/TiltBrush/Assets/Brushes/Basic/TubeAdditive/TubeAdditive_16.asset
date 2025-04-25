@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: c1c9b26d-673a-4dc6-b373-51715654ab96
   m_DurableName: TubeAdditive
-  m_Material: {fileID: 2100000, guid: c1c9b26d673a4dc6b37351715654ab96, type: 2}
+  m_Material: {fileID: 2100000, guid: bea1a62baa67a374ba813046f00093dc, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

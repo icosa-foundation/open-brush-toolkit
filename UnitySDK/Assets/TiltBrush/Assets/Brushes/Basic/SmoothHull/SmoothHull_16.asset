@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 355b3579-bf1d-4ff5-a200-704437fe684b
   m_DurableName: SmoothHull
-  m_Material: {fileID: 2100000, guid: 355b3579bf1d4ff5a200704437fe684b, type: 2}
+  m_Material: {fileID: 2100000, guid: f2266efbd3a75524799b7cbe32800181, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

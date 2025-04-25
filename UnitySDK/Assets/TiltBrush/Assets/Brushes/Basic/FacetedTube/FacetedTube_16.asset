@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 4391ffaa-df73-4396-9e33-31e4e4930b27
   m_DurableName: FacetedTube
-  m_Material: {fileID: 2100000, guid: 4391ffaadf7343969e3331e4e4930b27, type: 2}
+  m_Material: {fileID: 2100000, guid: 90aa2cfb6103a8743a2e582bc786475c, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

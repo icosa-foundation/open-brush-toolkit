@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 39ee7377-7a9e-47a7-a0f8-0c77712f75d3
   m_DurableName: ThickGeometry
-  m_Material: {fileID: 2100000, guid: 39ee73777a9e47a7a0f80c77712f75d3, type: 2}
+  m_Material: {fileID: 2100000, guid: bb1f96e755b6d1c4f8d764bcdbbb5283, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 0

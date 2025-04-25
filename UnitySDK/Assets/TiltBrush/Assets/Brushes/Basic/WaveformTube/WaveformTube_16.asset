@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 0f5820df-cb6b-4a6c-960e-56e4c8000eda
   m_DurableName: WaveformTube
-  m_Material: {fileID: 2100000, guid: 0f5820dfcb6b4a6c960e56e4c8000eda, type: 2}
+  m_Material: {fileID: 2100000, guid: 915b506fbbb11194390fd6454d7cdd38, type: 2}
   m_IsParticle: 0
   m_uv0Size: 3
   m_uv0Semantic: 3

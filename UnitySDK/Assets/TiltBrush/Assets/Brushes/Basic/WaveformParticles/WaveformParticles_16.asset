@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 6a1cf9f9-032c-45ec-9b6e-a6680bee30f7
   m_DurableName: WaveformParticles
-  m_Material: {fileID: 2100000, guid: 6a1cf9f9032c45ec9b6ea6680bee30f7, type: 2}
+  m_Material: {fileID: 2100000, guid: b0e53d05f3a9b6448957be8b8e724ba0, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5

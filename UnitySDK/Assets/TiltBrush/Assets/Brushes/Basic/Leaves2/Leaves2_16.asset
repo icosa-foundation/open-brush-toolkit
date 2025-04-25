@@ -15,7 +15,7 @@ MonoBehaviour:
   m_Guid:
     m_storage: 7259cce5-41c1-ec74-c885-78af28a31d95
   m_DurableName: Leaves2
-  m_Material: {fileID: 2100000, guid: 7259cce541c1ec74c88578af28a31d95, type: 2}
+  m_Material: {fileID: 2100000, guid: 2b9e824b960117c419350823ac5378d8, type: 2}
   m_IsParticle: 0
   m_uv0Size: 2
   m_uv0Semantic: 5
