@@ -433,6 +433,19 @@ public class GltfMaterialConverter {
     // .net 3.5 doesn't have Guid.TryParse, and raising FormatException generates
     // tons of garbage for something that is done so often.
     if (!kTiltBrushMaterialRegex.IsMatch(gltfMaterial.name)) {
+
+      // Special case for Blocks materials that are exported from recent versions of Open Brush
+      if (gltfMaterial.name.Contains("_BlocksPaper"))
+      {
+        return new Guid("0e87b49c-6546-3a34-3a44-8a556d7d6c3e");
+      }
+      if (gltfMaterial.name.Contains("_BlocksGlass")) {
+        return new Guid("3d813d82-5839-4450-8ddc-8e889ecd96c7");
+      }
+      if (gltfMaterial.name.Contains("_BlocksGem")) {
+        return new Guid("232998f8-d357-47a2-993a-53415df9be10");
+      }
+
       return Guid.Empty;
     }
     int start = Mathf.Max(0, gltfMaterial.name.Length - 36);
