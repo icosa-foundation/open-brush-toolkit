@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.icosafoundation.openbrushtoolkitdots": {
+      "version": "file:OpenBrushToolkitDots",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.burst": "1.4.11"
+      }
+    },
     "com.unity.burst": {
       "version": "1.4.11",
       "depth": 0,
